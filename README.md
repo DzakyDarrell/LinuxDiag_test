@@ -20,5 +20,5 @@ Before running this file you need tkinter and inxi installed.
 *Simple Information from separated inxi commands.
 
 ##Screenshots
-![Light](Screenshots/Screenshots_1.png)
-![Dark](Screenshots/Screenshots_2.png)
+![Light](Screenshots/Screenshot_1.png)
+![Dark](Screenshots/Screenshot_2.png)
