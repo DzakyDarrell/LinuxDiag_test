@@ -1,4 +1,4 @@
-## LinuxDiag_test
+# LinuxDiag_test_v1
 Linux system information GUI app using inxi command, build with Python + Tkinter. Test for learning purpose.
 
 ## Requirements
@@ -20,5 +20,5 @@ Before running this file you need tkinter and inxi installed.
 *Simple Information from separated inxi commands.
 
 ##Screenshots
-![Light](/Screenshots/Screenshots_1.png)
-![Dark](/Screenshots/Screenshots_2.png)
+![Light](Screenshots/Screenshots_1.png)
+![Dark](Screenshots/Screenshots_2.png)
