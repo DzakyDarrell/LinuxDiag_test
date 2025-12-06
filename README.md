@@ -10,5 +10,15 @@ Before running this file you need tkinter and inxi installed.
 ### CachyOS/Arch based
 `sudo pacman -S tk`
 
-##Running test directly
+## Running test directly
 `python /your/path/LinuxDiag_v1.py`
+
+## Features
+*Menu for every information.
+*Light and Dark theme.
+*Options menu for help and about.
+*Simple Information from separated inxi commands.
+
+##Screenshots
+!/Screenshots/Screenshots_1
+!/Screenshots/Screenshots_2
